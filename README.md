@@ -1,2 +1,1 @@
-# csbtest3
-Created with CodeSandbox
+# csb-vue-test
